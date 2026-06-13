@@ -1,10 +1,10 @@
 {
   "name": "FPT Play",
-  "package_name": "com.fplay.activity",
-  "version_name": "7.31.6",
-  "version_code": "1532",
+  "package_name": "net.fptplay.ottbox",
+  "version_name": "7.31.22",
+  "version_code": "4351",
   "apk_file": "FPTPlay.apk",
-  "size_mb": 79.22,
+  "size_mb": 64.16,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }

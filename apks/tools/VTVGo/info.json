@@ -1,10 +1,10 @@
 {
-  "name": "Aptoide",
-  "package_name": "cm.aptoide.pt",
-  "version_name": "9.22.5.3",
-  "version_code": "12060",
+  "name": "VTVgo TV",
+  "package_name": "vn.vtv.vtvgotv",
+  "version_name": "12.6.9",
+  "version_code": "314",
   "apk_file": "VTVGo.apk",
-  "size_mb": 19.14,
+  "size_mb": 57.71,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
