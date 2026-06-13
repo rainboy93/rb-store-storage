@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.hprof
+google-services.json
+*.salive
+*.log
+graphify-out/cache
+/remoteconfig.template.json
