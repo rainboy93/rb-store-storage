@@ -1,0 +1,10 @@
+{
+  "name": "MyTV For Smart TV",
+  "package_name": "vn.mytvnet.b2cott",
+  "version_name": "4.89.0_555_20260605",
+  "version_code": "555",
+  "apk_file": "MyTV.apk",
+  "size_mb": 75.5,
+  "icon": "ic_launcher.webp",
+  "banner": "tv_banner.png"
+}
