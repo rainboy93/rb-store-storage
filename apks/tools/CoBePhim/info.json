@@ -1,0 +1,10 @@
+{
+  "name": "Rổ Phim Cô Be",
+  "package_name": "com.tv.rophimm",
+  "version_name": "1.0.0",
+  "version_code": "1",
+  "apk_file": "CoBePhim.apk",
+  "size_mb": 13.06,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.webp"
+}
