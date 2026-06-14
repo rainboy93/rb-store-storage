@@ -1,0 +1,10 @@
+{
+  "name": "ES File Explorer",
+  "package_name": "com.estrongs.android.pop",
+  "version_name": "4.4.3.5",
+  "version_code": "10351",
+  "apk_file": "ESFileExplorer.apk",
+  "size_mb": 69.25,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
