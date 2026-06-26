@@ -1,0 +1,10 @@
+{
+  "name": "SmartTube",
+  "package_name": "com.teamsmart.videomanager.tv",
+  "version_name": "31.94",
+  "version_code": "2384",
+  "apk_file": "SmartTube.apk",
+  "size_mb": 33.24,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}

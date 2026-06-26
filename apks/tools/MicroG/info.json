@@ -1,0 +1,10 @@
+{
+  "name": "MicroG",
+  "package_name": "app.revanced.android.gms",
+  "version_name": "0.3.13.2.250932",
+  "version_code": "250932004",
+  "apk_file": "MicroG.apk",
+  "size_mb": 100.67,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
