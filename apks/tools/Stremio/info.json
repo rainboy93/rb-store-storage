@@ -1,10 +1,10 @@
 {
   "name": "Stremio",
   "package_name": "com.stremio.one",
-  "version_name": "1.10.2",
-  "version_code": "31048578",
+  "version_name": "2.3.2",
+  "version_code": "9242882",
   "apk_file": "Stremio.apk",
-  "size_mb": 147.04,
+  "size_mb": 63.36,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
