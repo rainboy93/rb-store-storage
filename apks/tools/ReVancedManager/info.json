@@ -1,0 +1,11 @@
+{
+  "name": "ReVanced Manager",
+  "package_name": "app.revanced.manager",
+  "version_name": "2.6.0",
+  "version_code": "200600099",
+  "apk_file": "ReVancedManager.apk",
+  "size_mb": 44.69,
+  "source_url": "https://github.com/ReVanced/revanced-manager/releases/download/v2.6.0/revanced-manager-2.6.0.apk",
+  "icon": "",
+  "banner": ""
+}
