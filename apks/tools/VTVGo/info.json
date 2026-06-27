@@ -3,8 +3,10 @@
   "package_name": "vn.vtv.vtvgotv",
   "version_name": "12.6.9",
   "version_code": "314",
-  "apk_file": "VTVGo.apk",
-  "size_mb": 41.45,
+  "apk_file": "VTVGo_arm64.apk",
+  "apk_arm64": "VTVGo_arm64.apk",
+  "apk_armv7": "VTVGo_armv7.apk",
+  "size_mb": 36.89,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }

@@ -3,8 +3,10 @@
   "package_name": "vn.mytvnet.b2cott",
   "version_name": "4.92.0_558_20260614",
   "version_code": "558",
-  "apk_file": "MyTV.apk",
-  "size_mb": 79.4,
+  "apk_file": "MyTV_arm64.apk",
+  "apk_arm64": "MyTV_arm64.apk",
+  "apk_armv7": "MyTV_armv7.apk",
+  "size_mb": 78.08,
   "icon": "ic_launcher.webp",
   "banner": "tv_banner.png"
 }

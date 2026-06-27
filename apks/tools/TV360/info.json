@@ -3,8 +3,10 @@
   "package_name": "com.viettel.tv360.tv",
   "version_name": "6.2",
   "version_code": "620",
-  "apk_file": "TV360.apk",
-  "size_mb": 82.92,
+  "apk_file": "TV360_arm64.apk",
+  "apk_arm64": "TV360_arm64.apk",
+  "apk_armv7": "TV360_armv7.apk",
+  "size_mb": 59.17,
   "icon": "",
   "banner": "tv_banner.png"
 }
