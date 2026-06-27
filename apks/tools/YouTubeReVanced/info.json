@@ -3,8 +3,10 @@
   "package_name": "app.revanced.android.youtube",
   "version_name": "20.40.45",
   "version_code": "1557278144",
-  "apk_file": "YouTubeReVanced.apk",
-  "size_mb": 172.86,
+  "apk_file": "YouTubeReVanced_arm64.apk",
+  "apk_arm64": "YouTubeReVanced_arm64.apk",
+  "apk_armv7": "YouTubeReVanced_armv7.apk",
+  "size_mb": 90.19,
   "source_url": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_v20.40.45_cli6.0.0_p6.1.1.6.apk",
   "icon": "ic_launcher.png",
   "banner": ""
