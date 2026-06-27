@@ -5,6 +5,7 @@
   "version_code": "9242882",
   "apk_file": "Stremio_arm64.apk",
   "apk_arm64": "Stremio_arm64.apk",
+  "apk_armv7": "Stremio_armv7.apk",
   "size_mb": 85.49,
   "icon": "",
   "banner": ""
