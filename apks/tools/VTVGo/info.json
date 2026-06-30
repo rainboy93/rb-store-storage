@@ -1,8 +1,8 @@
 {
   "name": "VTVgo TV",
   "package_name": "vn.vtv.vtvgotv",
-  "version_name": "12.6.27",
-  "version_code": "315",
+  "version_name": "12.6.29",
+  "version_code": "316",
   "apk_file": "VTVGo_arm64.apk",
   "apk_arm64": "VTVGo_arm64.apk",
   "apk_armv7": "VTVGo_armv7.apk",

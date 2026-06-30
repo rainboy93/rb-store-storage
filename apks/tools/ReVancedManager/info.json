@@ -1,11 +1,11 @@
 {
   "name": "ReVanced Manager",
   "package_name": "com.revanced.net.revancedmanager",
-  "version_name": "3.0.38",
-  "version_code": "135",
+  "version_name": "3.0.40",
+  "version_code": "150",
   "apk_file": "ReVancedManager.apk",
-  "size_mb": 2.18,
-  "source_url": "https://github.com/vancedto/vanced.to/releases/download/2026-21/vanced.to_revanced_manager_plus_v3.0.38.apk",
+  "size_mb": 2.2,
+  "source_url": "https://github.com/vancedto/vanced.to/releases/download/2026-26/vanced.to_revanced_manager_plus_v3.0.40.apk",
   "icon": "",
   "banner": ""
 }
