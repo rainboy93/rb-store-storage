@@ -1,0 +1,11 @@
+{
+  "name": "mStore2",
+  "package_name": "tungbui.mstore",
+  "version_name": "2.0.0",
+  "version_code": "2",
+  "apk_file": "MStore2.apk",
+  "size_mb": 12.61,
+  "source_url": "https://ximaotv.github.io/app/mstore.apk",
+  "icon": "ic_launcher.webp",
+  "banner": "tv_banner.png"
+}

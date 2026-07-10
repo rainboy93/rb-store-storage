@@ -1,0 +1,11 @@
+{
+  "name": "Cò TV",
+  "package_name": "com.cofvuong.tivi",
+  "version_name": "1.1.7",
+  "version_code": "1",
+  "apk_file": "CoTV.apk",
+  "size_mb": 27.89,
+  "source_url": "https://ximaotv.github.io/app/cotv.apk",
+  "icon": "ic_launcher.webp",
+  "banner": "tv_banner.png"
+}
