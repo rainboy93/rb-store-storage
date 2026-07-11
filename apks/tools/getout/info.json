@@ -1,11 +1,11 @@
 {
-  "name": "GetOut",
+  "name": "Get Out",
   "package_name": "com.linor.vn.getout",
-  "version_name": "2.0",
-  "version_code": "4",
+  "version_name": "2.end",
+  "version_code": "5",
   "apk_file": "getout.apk",
-  "size_mb": 13.76,
-  "source_url": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
+  "size_mb": 13.8,
+  "source_url": "https://bom.so/getout",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
