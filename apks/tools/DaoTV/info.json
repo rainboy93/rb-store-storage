@@ -1,0 +1,11 @@
+{
+  "name": "Đào TV",
+  "package_name": "com.daotv.player",
+  "version_name": "1.1.8",
+  "version_code": "8",
+  "apk_file": "DaoTV.apk",
+  "size_mb": 5.14,
+  "source_url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/daotv_1.1.8.apk",
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
