@@ -1,11 +1,11 @@
 {
   "name": "Sportzx",
   "package_name": "com.sportzx.live",
-  "version_name": "1.9",
-  "version_code": "10",
+  "version_name": "1.8",
+  "version_code": "9",
   "apk_file": "SportzX.apk",
-  "size_mb": 12.7,
-  "source_url": "https://pub-da7a734dcc5649388b83d515f2c87182.r2.dev/SportzX_1.9v.apk",
+  "size_mb": 10.67,
+  "source_url": "SportzX_1.8v.apk (local)",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
