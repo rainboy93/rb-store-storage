@@ -1,11 +1,11 @@
 {
   "name": "Sportzx",
   "package_name": "com.sportzx.live",
-  "version_name": "2.6",
-  "version_code": "15",
+  "version_name": "3.0",
+  "version_code": "16",
   "apk_file": "SportzX.apk",
-  "size_mb": 14.82,
-  "source_url": "SportzX_2.6v.apk (local)",
+  "size_mb": 19.37,
+  "source_url": "SportzX_3.0v.apk (local)",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
