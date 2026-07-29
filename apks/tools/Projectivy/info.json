@@ -1,11 +1,11 @@
 {
   "name": "Projectivy Launcher",
   "package_name": "com.spocky.projengmenu",
-  "version_name": "4.70",
-  "version_code": "92",
+  "version_name": "4.71",
+  "version_code": "95",
   "apk_file": "Projectivy.apk",
-  "size_mb": 10.76,
-  "source_url": "https://github.com/spocky/miproja1/releases/download/4.70/ProjectivyLauncher-4.70-c92-xda-release.apk",
+  "size_mb": 10.79,
+  "source_url": "https://github.com/spocky/miproja1/releases/download/4.71/ProjectivyLauncher-4.71-c95-xda-release.apk",
   "icon": "",
   "banner": "tv_banner.webp"
 }
