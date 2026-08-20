@@ -1,12 +1,12 @@
 {
   "name": "FPT Play",
   "package_name": "net.fptplay.ottbox",
-  "version_name": "7.32.11",
-  "version_code": "4361",
+  "version_name": "7.33.10",
+  "version_code": "4371",
   "apk_file": "FPTPlay_arm64.apk",
   "apk_arm64": "FPTPlay_arm64.apk",
   "apk_armv7": "FPTPlay_armv7.apk",
-  "size_mb": 62.46,
+  "size_mb": 62.58,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
