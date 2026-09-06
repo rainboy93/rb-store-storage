@@ -1,11 +1,11 @@
 {
   "name": "Phim 4K",
   "package_name": "com.oxootv.spagreen",
-  "version_name": "2.6.6",
-  "version_code": "76",
+  "version_name": "2.6.8",
+  "version_code": "78",
   "apk_file": "Phim4K.apk",
-  "size_mb": 13.31,
-  "source_url": "https://phim4k.xyz/downloads/androidtv",
+  "size_mb": 13.33,
+  "source_url": "https://website-19a7d-default-rtdb.asia-southeast1.firebasedatabase.app/app_updates/phim4k.json",
   "icon": "ic_launcher.png",
   "banner": ""
 }
