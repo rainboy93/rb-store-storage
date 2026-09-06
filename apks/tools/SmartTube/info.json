@@ -6,6 +6,7 @@
   "apk_file": "SmartTube.apk",
   "size_mb": 33.28,
   "source_url": "https://github.com/yuliskov/SmartTube/releases/download/32.38s/SmartTube_stable_32.38_universal.apk",
+  "source_fingerprint": "0x8DF07CCC9B57B17|Tue, 01 Sep 2026 02:00:24 GMT|34892480",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
