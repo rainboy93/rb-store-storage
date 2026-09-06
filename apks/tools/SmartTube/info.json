@@ -1,11 +1,11 @@
 {
   "name": "SmartTube",
   "package_name": "com.teamsmart.videomanager.tv",
-  "version_name": "32.10",
-  "version_code": "2400",
+  "version_name": "32.38",
+  "version_code": "2428",
   "apk_file": "SmartTube.apk",
-  "size_mb": 33.26,
-  "source_url": "https://github.com/yuliskov/SmartTube/releases/download/32.10s/SmartTube_stable_32.10_universal.apk",
+  "size_mb": 33.28,
+  "source_url": "https://github.com/yuliskov/SmartTube/releases/download/32.38s/SmartTube_stable_32.38_universal.apk",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }

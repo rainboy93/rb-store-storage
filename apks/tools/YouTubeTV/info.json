@@ -1,11 +1,11 @@
 {
   "name": "YouTube TV",
   "package_name": "com.google.android.youtube.tv",
-  "version_name": "",
-  "version_code": "",
+  "version_name": "1.0.8",
+  "version_code": "999999",
   "apk_file": "YouTubeTV.apk",
-  "size_mb": 15.54,
+  "size_mb": 16.05,
   "source_url": "https://ximaotv.github.io/app/ytb.apk",
-  "icon": "",
-  "banner": ""
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
 }
