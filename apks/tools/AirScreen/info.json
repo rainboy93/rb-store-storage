@@ -1,0 +1,12 @@
+{
+  "name": "AirScreen",
+  "package_name": "com.ionitech.airscreen",
+  "version_name": "2.15.1",
+  "version_code": "566",
+  "apk_file": "AirScreen_arm64.apk",
+  "apk_arm64": "AirScreen_arm64.apk",
+  "apk_armv7": "AirScreen_armv7.apk",
+  "size_mb": 187.85,
+  "icon": "ic_launcher.webp",
+  "banner": "tv_banner.png"
+}
