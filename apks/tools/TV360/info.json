@@ -1,8 +1,8 @@
 {
   "name": "TV360",
   "package_name": "com.viettel.tv360.tv",
-  "version_name": "6.3",
-  "version_code": "632",
+  "version_name": "6.3.1",
+  "version_code": "633",
   "apk_file": "TV360_arm64.apk",
   "apk_arm64": "TV360_arm64.apk",
   "apk_armv7": "TV360_armv7.apk",
