@@ -1,0 +1,13 @@
+{
+  "name": "TizenTube",
+  "package_name": "io.gh.reisxd.tizentube.cobalt",
+  "version_name": "2.0.2",
+  "version_code": "202",
+  "apk_file": "TizenTube_arm64.apk",
+  "apk_arm64": "TizenTube_arm64.apk",
+  "apk_armv7": "TizenTube_armv7.apk",
+  "size_mb": 160.38,
+  "source_url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm64.apk|https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm.apk",
+  "icon": "",
+  "banner": ""
+}
