@@ -8,6 +8,6 @@
   "apk_armv7": "TizenTube_armv7.apk",
   "size_mb": 160.38,
   "source_url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm64.apk|https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm.apk",
-  "icon": "",
-  "banner": ""
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
 }
