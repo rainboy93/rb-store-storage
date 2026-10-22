@@ -1,12 +1,12 @@
 {
   "name": "GetOut",
   "package_name": "com.linor.vn.getout",
-  "version_name": "2.end",
+  "version_name": "V.I.P",
   "version_code": "8",
   "apk_file": "getout.apk",
-  "size_mb": 13.8,
+  "size_mb": 14.5,
   "source_url": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
-  "source_fingerprint": "0x8DEE010FB0E2AF5|Sun, 12 Jul 2026 12:27:46 GMT|14468047",
+  "source_fingerprint": "0x8DF25E7A591C180|Fri, 09 Oct 2026 09:28:15 GMT|15206558",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
