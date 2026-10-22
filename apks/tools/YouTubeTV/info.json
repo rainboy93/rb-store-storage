@@ -1,12 +1,13 @@
 {
   "name": "YouTube TV",
   "package_name": "com.google.android.youtube.tv",
-  "version_name": "1.0.8",
-  "version_code": "999999",
-  "apk_file": "YouTubeTV.apk",
-  "size_mb": 16.05,
-  "source_url": "https://ximaotv.github.io/app/ytb.apk",
-  "source_fingerprint": "6ab94a22-100e138|Sun, 27 Sep 2026 16:53:54 GMT|16834872",
+  "version_name": "2.0.3",
+  "version_code": "203",
+  "apk_file": "YouTubeTV_arm64.apk",
+  "apk_arm64": "YouTubeTV_arm64.apk",
+  "apk_armv7": "YouTubeTV_armv7.apk",
+  "size_mb": 70.38,
+  "source_url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm64.apk|https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
