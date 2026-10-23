@@ -1,0 +1,10 @@
+{
+  "name": "XTVCast Receiver",
+  "package_name": "io.dzung.xtvcast.receiver",
+  "version_name": "0.1.0",
+  "version_code": "1",
+  "apk_file": "XTVCastReceiver.apk",
+  "size_mb": 23.59,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
