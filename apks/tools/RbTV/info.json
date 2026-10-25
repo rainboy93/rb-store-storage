@@ -1,10 +1,10 @@
 {
   "name": "RB TV",
   "package_name": "com.rb.tv",
-  "version_name": "1.0.3",
-  "version_code": "4",
+  "version_name": "1.0.4",
+  "version_code": "5",
   "apk_file": "RbTV.apk",
-  "size_mb": 2.5,
+  "size_mb": 2.84,
   "icon": "ic_launcher.png",
   "banner": "tv_banner.png"
 }
