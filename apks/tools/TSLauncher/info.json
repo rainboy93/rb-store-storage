@@ -1,0 +1,10 @@
+{
+  "name": "TS Launcher",
+  "package_name": "com.gathin.tvhome",
+  "version_name": "2.7",
+  "version_code": "8",
+  "apk_file": "TSLauncher.apk",
+  "size_mb": 1.61,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
