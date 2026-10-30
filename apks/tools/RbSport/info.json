@@ -1,0 +1,10 @@
+{
+  "name": "Rb Sport",
+  "package_name": "com.rb.sport",
+  "version_name": "1.0.0",
+  "version_code": "1",
+  "apk_file": "RbSport.apk",
+  "size_mb": 2.5,
+  "icon": "ic_launcher.png",
+  "banner": "tv_banner.png"
+}
